@@ -2,6 +2,7 @@ import React from 'react'
 import './pokemon.css';
 
 export const Pokemon = ({name, image, types}) => {
+
   return (
     <div className='main'>
         <div className="post-cards">
